@@ -993,6 +993,10 @@ blockquote cite:before {
 .nav-scroll .navbar-nav .active {
     color: #0099ff !important;
 }
+
+.nav-scroll .navbar-nav .active .iniciar-sesion{
+    color: #ffff !important;
+}
 .nav-scroll .navbar-nav .logo {
     padding: 15px 0;
     color: #14100c;
@@ -6346,4 +6350,12 @@ select {
     .info-box .item h5 {
         font-size: 15px;
     }
+}
+
+.iniciar-sesion:hover{
+    color: #FFF !important; 
+}
+
+.iniciar-sesion:active{
+    color: #FFF !important; 
 }

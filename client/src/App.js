@@ -41,7 +41,7 @@ function App() {
                         </div>
                     </div>
                     
-                    <div className="col-md-5 offset-md-2">
+                    <div className="col-md-5 offset-md-2" id="agendar-cita">
                         <div className="booking-box">
                             <div className="head-box text-center">
                                 <h4>Agenda Una Cita</h4>

@@ -15,7 +15,7 @@ function Header() {
                                 <h6>Mantente alerta, luce bien</h6>
                                 <h1>No sólo un barbero, sino un estilo de vida</h1> 
                                 <h4>Dg 69B Av 41DD - 45</h4> 
-                                <a href="#" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
+                                <a href="#contact" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,7 @@ function Header() {
                                 <h6>Establecido en 2018</h6>
                                 <h1>La peluquería que necesitarás</h1> 
                                 <h4>Dg 69B Av 41DD - 45</h4> 
-                                <a href="#" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
+                                <a href="#contact" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -43,7 +43,7 @@ function Header() {
                                 <h6>Mantente alerta, luce bien</h6>
                                 <h1>Consigue el estilo que te mereces </h1> 
                                 <h4>Dg 69B Av 41DD - 45</h4> 
-                                <a href="#" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
+                                <a href="#contact" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
                             </div>
                         </div>
                     </div>

@@ -1,0 +1,23 @@
+base de datos:
+
+tabla 
+
+usuarios{
+    id_usuario
+    nombre
+    usuario
+    contrasena
+}
+
+imagenes{
+    id_imagen
+    nombre
+    imagen
+}
+
+textos{
+    id_texto
+    texto
+}
+
+
