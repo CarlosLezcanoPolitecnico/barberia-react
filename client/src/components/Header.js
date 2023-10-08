@@ -12,10 +12,10 @@ function Header() {
                    <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-md-8 text-center"> 
-                                <h6>Stay sharp, Look good</h6>
-                                <h1>Not Just A Barbers, But A Lifestyle</h1> 
-                                <h4>Broadway St, NYC. Appointment: 855 100 4444</h4> 
-                                <a href="#" className="button-1 mt-30">Make Appointment<span></span></a>
+                                <h6>Mantente alerta, luce bien</h6>
+                                <h1>No sólo un barbero, sino un estilo de vida</h1> 
+                                <h4>Dg 69B Av 41DD - 45</h4> 
+                                <a href="#" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -26,10 +26,10 @@ function Header() {
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-md-8 text-center"> 
-                                <h6>Established 2006</h6>
-                                <h1>Barber Shop You Will Every Need</h1> 
-                                <h4>Broadway St, NYC. Appointment: 855 100 4444</h4> 
-                                <a href="#" className="button-1 mt-30">Make Appointment<span></span></a>
+                                <h6>Establecido en 2018</h6>
+                                <h1>La peluquería que necesitarás</h1> 
+                                <h4>Dg 69B Av 41DD - 45</h4> 
+                                <a href="#" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -40,10 +40,10 @@ function Header() {
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-md-8 text-center"> 
-                                <h6>Stay sharp, Look good</h6>
-                                <h1>Get Your Style Your Deserve </h1> 
-                                <h4>Broadway St, NYC. Appointment: 855 100 4444</h4> 
-                                <a href="#" className="button-1 mt-30">Make Appointment<span></span></a>
+                                <h6>Mantente alerta, luce bien</h6>
+                                <h1>Consigue el estilo que te mereces </h1> 
+                                <h4>Dg 69B Av 41DD - 45</h4> 
+                                <a href="#" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
                             </div>
                         </div>
                     </div>

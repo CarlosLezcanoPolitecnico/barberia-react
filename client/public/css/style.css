@@ -848,7 +848,7 @@ blockquote cite:before {
 }
 
 .section-head .section-subtitle {
-    color: #91765a;
+    color: #0099ff;
     font-size: 12px;
     font-weight: 800;
     margin-bottom: 0px;
@@ -958,16 +958,16 @@ blockquote cite:before {
     color: #14100c;
 }
 .navbar .navbar-nav .nav-link:hover {
-    color: #91765a;
+    color: #0099ff;
 }
 .navbar .navbar-nav .active {
-    color: #91765a !important;
+    color: #0099ff !important;
 }
 .navbar .navbar-nav .active i {
-    color: #91765a;
+    color: #0099ff;
 }
 .nav-scroll {
-    background: #14100c;
+    background: #303030;
     padding: 0 0 0 0;
     position: fixed;
     top: -100px;
@@ -991,7 +991,7 @@ blockquote cite:before {
     color: #fff;
 }
 .nav-scroll .navbar-nav .active {
-    color: #91765a !important;
+    color: #0099ff !important;
 }
 .nav-scroll .navbar-nav .logo {
     padding: 15px 0;
@@ -1441,8 +1441,8 @@ blockquote cite:before {
 .slider-fade .owl-theme .owl-nav [class*=owl-]:hover {
     transform: scale(0.9);
     background: transparent;
-    border: 1px solid #91765a;
-    color: #91765a;
+    border: 1px solid #0099ff;
+    color: #0099ff;
 }
 
 @media screen and (max-width: 768px) {
@@ -2104,7 +2104,7 @@ blockquote cite:before {
 
 .about-name {
     font-size: 15px;
-    color: #91765a;
+    color: #0099ff;
     font-family: 'Outfit', sans-serif;
 }
 
@@ -2259,7 +2259,7 @@ blockquote cite:before {
 .team-page-card .team-title span {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
-    color: #91765a;
+    color: #0099ff;
     font-weight: 400;
     display: grid;
 }
@@ -2572,7 +2572,7 @@ blockquote cite:before {
 .barber-services .item .con h6,
 .barber-services .item .con h6 a {
     position: relative;
-    color: #91765a;
+    color: #0099ff;
     font-weight: 800;
     font-size: 24px;
     margin-top: 10px;
@@ -2621,7 +2621,7 @@ blockquote cite:before {
     text-align: center;
     height: 1px;
     width: 60px;
-    background-color: #91765a;
+    background-color: #0099ff;
     transition-property: all;
     transition-duration: 0.3s;
     transition-timing-function: ease-in-out;
@@ -3177,7 +3177,7 @@ hr.border-2 {
 }
 
 .services-box .item .icon {
-    color: #91765a;
+    color: #0099ff;
     margin-right: 30px;
 }
 
@@ -3392,7 +3392,7 @@ hr {
 /* ======= Clients style ======= */
 
 .clients {
-    background: #91765a;
+    background: #858585;
     padding-top: 20px;
     padding-bottom: 10px;
 }
@@ -4028,7 +4028,7 @@ button.mfp-arrow {
     border: none;
     margin: 0;
     width: 100%;
-    background: #91765a;
+    background: #858585;
     color: #fff;
     font-size: 12px;
     text-transform: uppercase;
@@ -4390,7 +4390,7 @@ button.mfp-arrow {
 
 .reservations .icon span {
     font-size: 60px;
-    color: #91765a;
+    color: #0099ff;
 }
 
 .reservations .text {
@@ -4401,7 +4401,7 @@ button.mfp-arrow {
     font-size: 12px;
     font-weight: 800;
     margin-bottom: 5px;
-    color: #91765a;
+    color: #0099ff;
     font-family: 'Outfit', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -5505,8 +5505,8 @@ a:hover.post-repay {
 }
 
 .button-1:hover {
-    border: 1px solid #91765a;
-    background-color: #91765a;
+    border: 1px solid #0099ff;
+    background-color: #0099ff;
     color: #fff;
 }
 
@@ -5746,7 +5746,7 @@ a.link-btn span {
     -ms-flex-pack: center;
     justify-content: center;
     text-align: center;
-    color: #91765a;
+    color: #fff;
     font-size: 15px;
     background-color: transparent;
     -webkit-transition: all 500ms ease;
@@ -5825,7 +5825,7 @@ a.link-btn span {
 p.footer-contact-phone {
     font-family: 'Outfit', sans-serif;
     font-size: 24px;
-    color: #91765a;
+    color: #0099ff;
     font-weight: 800;
     display: block;
     -webkit-transition: all 500ms ease;
@@ -5856,7 +5856,7 @@ p.footer-contact-phone {
     left: 0;
     right: 0;
     height: 1px;
-    background-color: #91765a;
+    background-color: #0099ff;
     content: "";
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;

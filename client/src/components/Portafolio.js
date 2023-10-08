@@ -10,8 +10,8 @@ function Portafolio() {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="section-head text-center">
-                            <div className="section-subtitle">Gallery</div>
-                            <div className="section-title">Portfolio</div>
+                            <div className="section-subtitle">Galeria</div>
+                            <div className="section-title">Portafolio</div>
                         </div>
                     </div>
                 </div>

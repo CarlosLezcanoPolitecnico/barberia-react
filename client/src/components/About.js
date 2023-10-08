@@ -13,28 +13,28 @@ function About() {
                     <div className="row">
                         <div className="col-md-6 mb-30">
                             <div className="section-head mb-20">
-                                <div className="section-subtitle">Since 2006</div>
-                                <div className="section-title">Perukar Barber Shop</div>
+                                <div className="section-subtitle">Establecido 2018</div>
+                                <div className="section-title">New York Barber Shop</div>
                             </div>
-                            <p>Come experience a unique and edgy barbershop for all your hair and beard needs. ravida haretra nuam enim mi obortis eset uctus enec accumsan eu justo alisuame amet auctor orci donec vitae vehicula risus.</p>
-                            <p>Barber utate ons amet ravida haretra nuam the duru miss uctus the drana accumsan justo aliquam sit amet auctor orci done vitae risus duise nisan sapien silver on the accumsan id mauris apien.</p>
+                            <p>Ven a experimentar una barbería única y vanguardista para todas tus necesidades de cabello y barba.</p>
+                            <p></p>
                             <ul className="about-list list-unstyled mb-30">
                                 <li>
                                     <div className="about-list-icon"> <span className="ti-check"></span> </div>
                                     <div className="about-list-text">
-                                        <p>We're professional and certified barbers</p>
+                                        <p>Somos barberos profesionales y certificados.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div className="about-list-icon"> <span className="ti-check"></span> </div>
                                     <div className="about-list-text">
-                                        <p>We use quality products to make you look perfect</p>
+                                        <p>Utilizamos productos de calidad para que luzcas perfecto.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div className="about-list-icon"> <span className="ti-check"></span> </div>
                                     <div className="about-list-text">
-                                        <p>We care about our customers satisfaction</p>
+                                        <p>Nos preocupamos por la satisfacción de nuestros clientes.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -50,8 +50,8 @@ function About() {
                         <div className="col-md-4">
                             <div className="item"> <span className="icon icon icon-icon-1-6"></span>
                                 <div className="cont">
-                                    <h5>Cuts</h5>
-                                    <p>Cuts ut nisl quam nestibulum drana odio elementum sceisue the can golden varius the dis monte.</p>
+                                    <h5>Cortes</h5>
+                                    <p>Transformando tu estilo con cortes de precisión y tendencia.</p>
                                 </div>
                             </div>
                         </div>
@@ -59,15 +59,15 @@ function About() {
                             <div className="item"> <span className="icon icon-icon-1-3"></span>
                                 <div className="cont">
                                     <h5>Fades</h5>
-                                    <p>Fades ut nisl quam nestibulum drana odio elementum sceisue the can golden varius the dis monte.</p>
+                                    <p>Experimenta la excelencia en cortes fades, donde la maestría se encuentra con la innovación para tu estilo impecable.</p>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-4">
                             <div className="item"> <span className="icon icon-icon-1-1"></span>
                                 <div className="cont">
-                                    <h5>Shaves</h5>
-                                    <p>Shaves ut nisl quam nestibulum drana odio elementum sceisue the can golden varius the dis monte.</p>
+                                    <h5>Afeitados</h5>
+                                    <p>Descubre la experiencia definitiva de afeitados: lujo, cuidado de la piel y resultados impecables en cada servicio.</p>
                                 </div>
                             </div>
                         </div>

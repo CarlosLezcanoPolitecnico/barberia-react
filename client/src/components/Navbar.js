@@ -17,14 +17,14 @@ function Navbar() {
 
             <div className="collapse navbar-collapse" id="navbar">
                 <ul className="navbar-nav ms-auto">
-                    <li className="nav-item"><a className="nav-link active" href="#" data-scroll-nav="0">Home</a></li>
-                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="1">About</a></li>
-                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="2">Services</a></li>
-                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="3">Pricing</a></li>
-                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="4">Portfolio</a></li>
-                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="5">Team</a></li>
+                    <li className="nav-item"><a className="nav-link active" href="#" data-scroll-nav="0">Inicio</a></li>
+                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="1">Nosotros</a></li>
+                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="2">Servicios</a></li>
+                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="3">Precios</a></li>
+                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="4">Portafolio</a></li>
+                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="5">Equipo</a></li>
                     <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="6">Blog</a></li>
-                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="7">Contact</a></li>
+                    <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="7">Contacto</a></li>
                 </ul>
             </div>
         </div>

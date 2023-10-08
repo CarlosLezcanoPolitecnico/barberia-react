@@ -12,14 +12,14 @@ function Experience() {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="section-head mb-20">
-                                <div className="section-subtitle">17 Year of Experience</div>
-                                <div className="section-title white">Making people look awesome since 2006</div>
+                                <div className="section-subtitle">5 años de experiencia</div>
+                                <div className="section-title white">Haciendo que la gente luzca increíble desde 2018</div>
                             </div>
-                            <p>Come experience a unique and edgy barbershop for all your hair and beard needs. Vulputate ons amet ravida haretra nuam the drana miss uctus enec accumsan justo aliquam sit amet auctor orci done vitae risus duise nunc sapien.</p>
+                            <p>En nuestra barbería, ofrecemos la experiencia definitiva de cuidado masculino. Desde el momento en que entras, te sumergirás en un mundo de atención personalizada y estilo inigualable. Nuestros expertos barberos están comprometidos con la perfección en cada corte, afeitado y tratamiento facial. Utilizamos productos de alta calidad y técnicas de vanguardia para asegurarnos de que te sientas rejuvenecido y con confianza en tu apariencia. Cada visita es una oportunidad para relajarte, recargarte y salir luciendo y sintiéndote increíble. Descubre lo que realmente significa la excelencia en la barbería con nosotros, donde tu satisfacción y estilo son nuestra prioridad número uno.</p>
                             <div className="about-bottom"> <img src="img/signature.svg" alt="" className="image about-signature"/>
                                 <div className="about-name-wrapper">
-                                    <div className="about-rol">Barber, Founder</div>
-                                    <div className="about-name">Harold Brown</div>
+                                    <div className="about-rol">Barbero, Foundador</div>
+                                    <div className="about-name">Julian Esteban Arango Duque</div>
                                 </div>
                             </div>
                         </div>

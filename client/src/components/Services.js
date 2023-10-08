@@ -9,8 +9,8 @@ function Services() {
             <div className="row">
                 <div className="col-md-12">
                     <div className="section-head text-center">
-                        <div className="section-subtitle">What we're offering</div>
-                        <div className="section-title">Barber Services</div>
+                        <div className="section-subtitle">LO QUE OFRECEMOS</div>
+                        <div className="section-title">Servicios de barbería</div>
                     </div>
                 </div>
             </div>
@@ -21,12 +21,12 @@ function Services() {
                             <div className="position-re o-hidden"> <img src="img/services/2.jpg" alt=""/> </div>
                             <div className="con">
                                 <div className="icon icon-icon-1-6"></div>
-                                <h5>Hair Cut</h5>
+                                <h5>Corte de pelo</h5>
                                 <div className="line"></div>
                                 <div className="row">
                                     <div className="col-md-12 text-center">
-                                        <div className="permalink">Hair cut amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
-                                        <h6>$30</h6>
+                                        <div className="permalink">Renueva tu estilo con cortes de pelo que marcan tendencia.</div>
+                                        <h6>$12.000</h6>
                                     </div>
                                 </div>
                             </div>
@@ -39,12 +39,12 @@ function Services() {
                             <div className="position-re o-hidden"> <img src="img/services/1.jpg" alt=""/> </div>
                             <div className="con">
                                 <div className="icon icon-icon-1-1"></div>
-                                <h5>Beard Trim</h5>
+                                <h5>Corte de barba</h5>
                                 <div className="line"></div>
                                 <div className="row">
                                     <div className="col-md-12 text-center">
-                                        <div className="permalink">Shaves ons amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
-                                        <h6>$20</h6>
+                                        <div className="permalink">Define tu masculinidad con cortes de barba perfectamente diseñados y cuidados.</div>
+                                        <h6>$13.000</h6>
                                     </div>
                                 </div>
                             </div>
@@ -57,12 +57,12 @@ function Services() {
                             <div className="position-re o-hidden"> <img src="img/services/3.jpg" alt=""/> </div>
                             <div className="con">
                                 <div className="icon icon-icon-1-4"></div>
-                                <h5>Hair Wash</h5>
+                                <h5>Lavado de cabello</h5>
                                 <div className="line"></div>
                                 <div className="row">
                                     <div className="col-md-12 text-center">
-                                        <div className="permalink">Hair wash amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
-                                        <h6>$15</h6>
+                                        <div className="permalink">Revitaliza tu cabello con nuestro relajante y rejuvenecedor lavado capilar.</div>
+                                        <h6>$15.000</h6>
                                     </div>
                                 </div>
                             </div>
