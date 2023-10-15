@@ -10,6 +10,7 @@ import Score from './components/Score';
 import Portafolio from './components/Portafolio';
 import Pricing from './components/Pricing';
 import Team from './components/Team';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
     <Portafolio />
     <Pricing />
     <Team />
+    <Contact />
     
     <section id="contact" data-scroll-index="7" className="testimonials">
         <div className="background bg-img bg-fixed section-padding pb-0" data-background="img/slider/20.jpg" data-overlay-dark="6">
