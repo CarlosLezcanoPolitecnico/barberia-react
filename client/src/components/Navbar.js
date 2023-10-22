@@ -24,7 +24,9 @@ function Navbar() {
                     <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="4">Portafolio</a></li>
                     <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="5">Equipo</a></li>
                     <li className="nav-item"><a className="nav-link" href="#" data-scroll-nav="7">Contacto</a></li>
-                    <li className="nav-item"><a className="nav-link btn btn-primary mx-5 iniciar-sesion" href="#">Iniciar Sesion</a></li>
+                    <li className="nav-item">
+                      <a className="nav-link btn btn-primary mx-5 iniciar-sesion"  data-bs-toggle="modal" data-bs-target="#modal-login">Iniciar Sesion</a>
+                    </li>
                 </ul>
             </div>
         </div>

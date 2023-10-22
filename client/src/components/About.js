@@ -4,8 +4,6 @@ function About() {
   return (
     <div>
 
-    
-    
       {
         <div>
             <section id="about" data-scroll-index="1" className="about section-padding">

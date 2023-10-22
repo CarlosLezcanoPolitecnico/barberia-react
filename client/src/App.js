@@ -10,11 +10,12 @@ import Score from './components/Score';
 import Portafolio from './components/Portafolio';
 import Pricing from './components/Pricing';
 import Team from './components/Team';
+import Login from "./components/Login";
 
 function App() {
   return (
     <div>
-
+    
     <Navbar />
     <Header />
     <About />
@@ -197,8 +198,10 @@ function App() {
             </div>
         </div>
     </footer>
-
+    <Login />
     </div>
+
+    
       
   );
 }
