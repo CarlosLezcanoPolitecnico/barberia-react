@@ -141,15 +141,15 @@ function App() {
         </div>
     </section>
   
-    <footer className="footer">
+    <footer className="footer"> 
         <div className="footer-top">
             <div className="container">
                 <div className="row">
                     <div className="col-md-5">
                         <div className="footer-column footer-contact">
                             <h3 className="footer-title">Contacto</h3>
-                            <p className="footer-contact-text">Dg 69B Av41DD-45
-                                <br/>Colombia
+                            <p className="footer-contact-text">Dg 69B Av41DD-49
+                                <br/>Bello, Antoquia
                             </p>
                             <div className="footer-contact-info">
                                 <p className="footer-contact-phone">301 786 5121</p>
@@ -179,16 +179,16 @@ function App() {
                                     <div className="dots"></div> <span>10:00AM  - 8:00PM</span>
                                 </li>
                                 <li>
-                                    <div className="tit">Viernes</div>
+                                    <div className="tit">Viernes</div> 
                                     <div className="dots"></div> <span>10:00AM  - 8:00PM</span>
                                 </li>
                                 <li>
                                     <div className="tit">Sabado</div>
-                                    <div className="dots"></div> <span>10:00AM  - 6:00PM</span>
+                                    <div className="dots"></div> <span>9:00AM  - 9:00PM</span>
                                 </li>
                                 <li>
                                     <div className="tit">Domingo</div>
-                                    <div className="dots"></div> <span>11:00AM  - 5:00PM</span>
+                                    <div className="dots"></div> <span>9:00AM  - 6:00PM</span>
                                 </li>
                             </ul>
                         </div>
