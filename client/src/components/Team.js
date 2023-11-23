@@ -24,7 +24,7 @@ function Team() {
                                 <h3 className="team-title">julian Arango Duque<span>Barbero</span></h3>
                                 <p className="team-text">Cuenta con 6 años de Experiencia en cortes, especialista en estilos de corte, barba y cejas.</p>
                                 <div className="social">
-                                <i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i>
+                                <i className="star-rating"></i><i className="star-rating"></i><i className="star-rating"></i><i className="star-rating"></i><i className="star-rating"></i>
                                 </div> <a href="team-details.html" className="button-1 mt-15">Cortes Recientes<span></span></a>
                             </div>
                             <div className="title-box">
@@ -35,9 +35,9 @@ function Team() {
                             <div className="team-img"><img src="img/team/b2.jpg" alt="" className="w-100"/></div>
                             <div className="team-content">
                                 <h3 className="team-title">Camilo<span>Barbero</span></h3>
-                                <p className="team-text">Cuenta con 1 año de Experiencia en cortes, especialista en estilos de corte, barba y cejas.</p>
+                                <p className="team-text">Cuenta con 2 años de Experiencia en cortes, especialista en estilos de corte, barba y cejas.</p>
                                 <div className="social">
-                                <i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i>
+                                <i className="star-rating"></i><i className="star-rating"></i><i className="star-rating"></i>
                                 </div> <a href="team-details.html" className="button-1 mt-15">Cortes Recientes<span></span></a>
                             </div>
                             <div className="title-box">
@@ -48,14 +48,14 @@ function Team() {
                             <div className="team-img"><img src="img/team/b3.jpg" alt="" className="w-100"/></div>
                             <div className="team-content">
                                 <h3 className="team-title">Samuel Duque<span>Barbero</span></h3>
-                                <p className="team-text">Cuenta con 2 años de Experiencia en cortes, especialista en estilos de corte, barba y cejas.</p>
+                                <p className="team-text">Cuenta con 4 años de Experiencia en cortes, especialista en estilos de corte, barba y cejas.</p>
                                 <div className="social">
-                                <i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i>
+                                <i className="star-rating"></i><i className="star-rating"></i><i className="star-rating"></i><i className="star-rating"></i>
                                 </div> <a href="team-details.html" className="button-1 mt-15">Cortes Recientes<span></span></a>
                             </div>
                             <div className="title-box">
                                 <h3 className="mb-0">Samuel Arango<span>Barbero</span></h3>
-                            </div>
+                            </div> 
                         </div>
                     </div>
                 </div>

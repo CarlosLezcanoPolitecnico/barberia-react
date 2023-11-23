@@ -20,4 +20,71 @@ textos{
     texto
 }
 
+cortes{
+    id_corte
+    nombre
+    precio
+    descripcion
+}
+
+slider{
+    id_slider
+    slogan
+    descripcion
+    direccion
+}
+
+sevicios{
+    id_servicio
+    nombre
+    descripcion
+    precio
+}
+
+resenas{
+    id_resena
+    puntuacion
+    descripcion
+    nombre
+}
+
+galeria{
+    id_imagen
+    tipo_imagen
+    nombre_imagen    
+}
+
+barberos{
+    id_barbero
+    nombre
+    descripcion
+    puntuacion
+}
+
+citas{
+    id_cita
+    nombre_cliente
+    telefono_cliente
+    dia_cita
+    hora_cita
+    barbero
+}
+
+contacto{
+    id_contacto
+    direccion
+    pais
+    telefono
+    correo
+    link_instagram
+    link_facebook
+}
+
+horario_laboral{
+    id_horario
+    dia
+    hora_inicio
+    hora_final
+}
+
 

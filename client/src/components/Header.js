@@ -13,7 +13,7 @@ function Header() {
                         <div className="row justify-content-center">
                             <div className="col-md-8 text-center"> 
                                 <h6>Mantente alerta, luce bien</h6>
-                                <h1>No sólo un barbero, sino un estilo de vida</h1> 
+                                <h1>tu estilo, tu marca, tu personalidad!!</h1> 
                                 <h4>Dg 69B Av 41DD - 45</h4> 
                                 <a href="#contact" className="button-1 mt-30">Agenda Tu Cita<span></span></a>
                             </div>
