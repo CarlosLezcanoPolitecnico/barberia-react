@@ -10,14 +10,14 @@ function parseJwt (token) {
     return JSON.parse(jsonPayload);
 }
 
-function Login() {
+function Login({ onLogin }) {
 
     const [usuario, setUsuario] = useState('')
     const [contrasena, setContrasena] = useState('')
 
     const mensaje = document.querySelector('#mensaje')
 
-    const handleLogin  = (e) => {
+    const iniciarSesion  = (e) => {
         e.preventDefault();
 
         const data = {
@@ -25,7 +25,7 @@ function Login() {
             contrasena : contrasena
         }
 
-        fetch('http://localhost:3004/login', {
+        fetch('http://localhost:3333/login', {
             method : 'POST',
             headers : {
                 'Content-Type': 'application/json'
@@ -41,7 +41,7 @@ function Login() {
                 mensaje.innerHTML = 'Sesion Iniciada Correctamente'
                 setTimeout(()  => {
 
-                    window.location = 'http://localhost:3000/'
+                    onLogin();
                 }, 2000)
             }else{
                 mensaje.classList.remove('btn-success')
@@ -77,7 +77,7 @@ function Login() {
                     </div>
                     <div className="modal-footer">
                         <button type="button" className="btn btn-danger light" data-bs-dismiss="modal">Cerrar</button>
-                        <button type="submit" className="btn btn-primary" onClick={handleLogin}>Registrar</button>
+                        <button type="submit" className="btn btn-primary" onClick={iniciarSesion}>Iniciar Sesion</button>
                     </div>
                 </form>
             </div>

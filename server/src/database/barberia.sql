@@ -17,7 +17,6 @@ CREATE TABLE `usuarios` (
 INSERT INTO `usuarios` (`id_usuario`, `usuario`, `contrasena`, `nombres`) VALUES
 (1, 'carloslezcano', '123', 'Carlos Esteban Lezcano Tobon');
 
-dices de la tabla `usuarios`
 --
 ALTER TABLE `usuarios`
   ADD PRIMARY KEY (`id_usuario`);

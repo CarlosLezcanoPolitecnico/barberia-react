@@ -14,6 +14,7 @@ module.exports.login = (req, res) => {
                     expiresIn: '1m'
                 })
                 res.send({ status: 'success', token })
+                console.log('Sesion iniciada')
             } else {
                 console.log('Usuario Incorrecto')
                 res.send({ status: 'error', message: 'Usuario o contraseña incorrectos' })

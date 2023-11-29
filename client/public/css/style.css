@@ -6363,3 +6363,9 @@ select {
 .titulo-1{
     font-size: 3em !important;
 }
+
+.listaCitas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
